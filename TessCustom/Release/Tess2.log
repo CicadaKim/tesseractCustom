@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Tess2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Tess2.cpp
+C:\tess305\tesseract\api\baseapi.h(594): warning C4099: 'ETEXT_DESC': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  C:\tess305\tesseract\api\baseapi.h(56): note: 'ETEXT_DESC' 선언을 참조하십시오.
+c:\tess305\leptonica\src\pix.h(226): warning C4305: '초기화 중': 'double'에서 'l_float32'(으)로 잘립니다.
+c:\tess305\leptonica\src\pix.h(228): warning C4305: '초기화 중': 'double'에서 'l_float32'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Tess2.vcxproj -> C:\Users\ocr\Documents\Projects\Tess2\Release\TessCustom.exe
+  Tess2.vcxproj -> C:\Users\ocr\Documents\Projects\Tess2\Release\TessCustom.pdb (Full PDB)

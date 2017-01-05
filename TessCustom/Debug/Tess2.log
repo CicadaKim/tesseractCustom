@@ -1,0 +1,9 @@
+﻿C:\tess305\tesseract\build\bin\Release\lept173.lib : warning LNK4003: 라이브러리 형식이 잘못되었습니다. 라이브러리가 무시됩니다.
+Tess2.obj : error LNK2019: "public: __thiscall tesseract::TessBaseAPI::TessBaseAPI(void)" (??0TessBaseAPI@tesseract@@QAE@XZ) 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: "public: int __thiscall tesseract::TessBaseAPI::Init(char const *,char const *,enum tesseract::OcrEngineMode,char * *,int,class GenericVector<class STRING> const *,class GenericVector<class STRING> const *,bool)" (?Init@TessBaseAPI@tesseract@@QAEHPBD0W4OcrEngineMode@2@PAPADHPBV?$GenericVector@VSTRING@@@@3_N@Z) 외부 기호(참조 위치: "public: int __thiscall tesseract::TessBaseAPI::Init(char const *,char const *)" (?Init@TessBaseAPI@tesseract@@QAEHPBD0@Z) 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: "public: void __thiscall tesseract::TessBaseAPI::SetImage(struct Pix *)" (?SetImage@TessBaseAPI@tesseract@@QAEXPAUPix@@@Z) 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: "public: char * __thiscall tesseract::TessBaseAPI::GetUTF8Text(void)" (?GetUTF8Text@TessBaseAPI@tesseract@@QAEPADXZ) 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: "public: void __thiscall tesseract::TessBaseAPI::End(void)" (?End@TessBaseAPI@tesseract@@QAEXXZ) 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: _pixDestroy 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+Tess2.obj : error LNK2019: _pixRead 외부 기호(참조 위치: _wmain 함수)에서 확인하지 못했습니다.
+c:\users\ocr\documents\Projects\Tess2\Debug\Tess2.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
